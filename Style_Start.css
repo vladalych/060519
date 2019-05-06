@@ -1,0 +1,15 @@
+h3
+{
+	text-align: center;
+}
+p
+{
+	color:gray;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+}
+#map {
+        height: 500px;
+      }
+      
